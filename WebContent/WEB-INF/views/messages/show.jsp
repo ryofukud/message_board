@@ -9,7 +9,8 @@
 
                 <table>
                     <tbody>
-                      <th>タイトル</th>
+                        <tr>
+                            <th>タイトル</th>
                             <td><c:out value="${message.title}" /></td>
                         </tr>
                         <tr>
